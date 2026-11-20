@@ -1,0 +1,4 @@
+type,amount,category,date,description
+expense,150.50,Food,2026-11-01,Lunch
+income,1000.00,Salary,2026-11-05,November salary
+expense,45.00,Transport,2026-11-10,Metro
